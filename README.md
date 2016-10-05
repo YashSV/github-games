@@ -1,8 +1,9 @@
-## Welcome to GitHub Games
+Changing the File Readme
+## Welcome to GitHub Games - New changes
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-You can play the game at: http://githubschool.github.io/github-games/
+You can play the game at: http://YashSV.github.io/github-games/
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
